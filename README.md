@@ -191,18 +191,37 @@ EMAIL_PASS=your_gmail_app_password
 
 ---
 
-# 📸 Screenshots
+## Screenshots
 
-You can add screenshots of:
+### Login Page
+![Login](Screenshots/Login.png)
 
-* Login Page
-* Patient Dashboard
-* Admin Dashboard
-* Hospital Dashboard
-* Agent Dashboard
-* Insurance Plans
-* Claim Details
-* Claim Tracking
+### Patient Dashboard
+![Patient Dashboard](Screenshots/PatientDashboard.png)
+
+### Insurance Plans
+![Plans](Screenshots/InsurancePlans.png)
+
+### Payment Page
+![Payment Success](Screenshots/PaymentPage.png)
+
+### My Policies
+![Payment Success](Screenshots/Policies.png)
+
+### Submit Claim
+![Submit Claim](Screenshots/SubmitClaim.png)
+
+### Admin Dashboard
+![Admin Dashboard](Screenshots/AdminDashboard.png)
+
+### Create User
+![Create User](Screenshots/CreateUser.png)
+
+### Hospital Dashboard
+![Hospital Dashboard](Screenshots/HospitalDashboard.png)
+
+### Agent Dashboard
+![Agent Dashboard](Screenshots/AgentDashboard.png)
 
 ---
 
